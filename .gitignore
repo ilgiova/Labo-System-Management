@@ -1,1 +1,18 @@
 .DS_Store
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.bbl
+*.blg
+*.lof
+*.lot
+*.nav
+*.snm
+*.xdv
